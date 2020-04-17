@@ -1,0 +1,25 @@
+References
+
+
+Project 2:
+
+Converting wave files for microcontrollers: https://learn.adafruit.com/microcontroller-compatible-audio-file-conversion
+
+
+Project 13:
+
+Adafruit Circuit Playground products: https://www.adafruit.com/categories/965
+
+Circuit Playground Express overview: https://learn.adafruit.com/adafruit-circuit-playground-express/overview
+
+Circuit Playground Python library tutorials: https://learn.adafruit.com/circuitpython-made-easy-on-circuit-playground-express/
+
+Circuit Playground cp library reference: https://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/api.html#adafruit_circuitplayground.express.cpx
+
+Circuit Python home page: https://circuitpython.org/
+
+Adafruit home page: https://www.adafruit.com/
+
+ 
+
+ 
