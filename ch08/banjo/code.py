@@ -5,10 +5,6 @@
 
 # touch pad banjo
 
-
-# url for the Andy Griffith banjo clip:
-#  https://www.youtube.com/watch?v=Eu77tX7uDvc  
-
 from adafruit_circuitplayground import cp
 
 # notes and frequencies
