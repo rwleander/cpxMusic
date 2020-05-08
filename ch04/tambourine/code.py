@@ -18,6 +18,6 @@ cp.detect_taps = 1
 while True:
   if cp.tapped:
     cp.play_file(tap)
-  if cp.shake(shake_threshold=15):
+  if cp.shake(shake_threshold=12):
     cp.play_file(shake)
       

@@ -81,7 +81,7 @@ while n1 < len(notes1) or  len2 < len(notes2):
   time.sleep(duration)
   
   last_tone1 = tone1
-  last_tone2 == tone2
+  last_tone2 = tone2
   length1 = length1 - 1
   length2 = length2 - 1
   
