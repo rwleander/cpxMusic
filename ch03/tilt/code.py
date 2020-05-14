@@ -1,4 +1,4 @@
-#  Python code for Making Music with the Circuit Playground Express
+#  Python code for Make Music with the Circuit Playground Express
 #    by Rick Leander
 #    Copyright (c) 2020 Rick Leander All rights reserved
 #
