@@ -1,8 +1,8 @@
 #  Python code for Make Music with the Circuit Playground Express
 #    by Rick Leander
-#    Copyright (c) 2020 Rick Leander All rights reserved
+#  Copyright (c) 2020 Rick Leander All rights reserved
+#  Buy the book at https://www.amazon.com/author/rleander#
 #
-
 #  play a song
 
 from adafruit_circuitplayground import cp
